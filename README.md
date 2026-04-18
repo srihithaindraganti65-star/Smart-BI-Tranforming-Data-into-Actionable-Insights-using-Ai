@@ -49,6 +49,6 @@ This project demonstrates how the combination of Business Intelligence and Artif
 
 
 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/7845acab-aaa1-41b9-808b-8bbb2ae3d224?ctid=aed43286-0f66-47d6-942b-d31a4b8addca&pbi_source=linkShare)
-Presentation video https://1drv.ms/v/c/4bdfcb807ceb622b/IQD-qmB8Zyu8Qbapkuw8tpmpAfpP6BHyq7q3V-PKnqS0DEo?e=1ys3MN
-<img width="1174" height="53" alt="image" src="https://github.com/user-attachments/assets/1fcab610-2b32-44cb-afe4-bccc0d80d1ee" />
+Presentation video https://drive.google.com/file/d/1kNhiuoRiq1aO-_IiEyEdXjFTru6Vz9oj/view?usp=drivesdk
+<img width="1190" height="62" alt="image" src="https://github.com/user-attachments/assets/f01cc336-4a60-4034-8ea9-019654fb3fcd" />
 
